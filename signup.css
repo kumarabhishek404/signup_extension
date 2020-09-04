@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
+#bigBox{
     padding: 3rem;
     display: flex;
     flex-direction: column;
@@ -43,4 +43,7 @@ a{
     margin-top: 1rem;
     width: 60px;
     border-radius: 4px;
+    background-color: #cffbea;
+    border: none;
+    padding: 5px;
 }
